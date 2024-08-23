@@ -1,0 +1,6 @@
+Gender,Age,Sleep Duration,Quality of Sleep,Physical Activity Level,BMI Category,Heart Rate,Daily Steps
+Male,30,7,8,65,Normal,74,5000
+Male,25,8,9,80,Overweight,85,6000
+Female,27,7.5,7,75,Obese,88,6500
+Male,28,7,6,60,Overweight,85,4500
+Female,26,8.5,6,90,Normal,80,8000
